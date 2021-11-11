@@ -1,4 +1,4 @@
-{{-- @extends('layout.main')
+@extends('layout.main')
 
 @section('content')
     <div class="container-fluid">
@@ -8,11 +8,6 @@
             </div>
         </div>
     </div>
-@endsection --}}
-
-{{-- <h1>ciao</h1> --}}
-<h1>Ciao</h1>
-
-@section('content')
-    hi
 @endsection
+
+
